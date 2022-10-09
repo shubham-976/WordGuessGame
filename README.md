@@ -1,2 +1,2 @@
-# WoerGuessGame
- Its a Worf Guess game made using Python Programming language.
+# WordGuessGame
+ Its a Word Guess game made using Python Programming language.
